@@ -1,0 +1,4 @@
+mkdir services
+npm init -y
+npm install express openai firebase-admin dotenv cors llama-node @llama-node/llama-cpp 
+mkdir public 
